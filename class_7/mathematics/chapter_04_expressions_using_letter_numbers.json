@@ -1,0 +1,101 @@
+{
+  "id": "cbse-7-mathematics-expressions_using_letter_numbers",
+  "curriculum": "CBSE",
+  "class": 7,
+  "stream": null,
+  "subject": "mathematics",
+  "chapter_number": 4,
+  "chapter_title": "Expressions Using Letter-Numbers",
+  "language": "en",
+  "book": "Ganita Prakash (Grade 7)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Expressions Using Letter-Numbers in mathematics.",
+    "detailed_summary": "This chapter for Class 7 mathematics explains the core concepts of Expressions Using Letter-Numbers. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Expressions Using Letter-Numbers",
+        "explanation": "This concept introduces the basic idea of Expressions Using Letter-Numbers."
+      },
+      {
+        "title": "Core ideas in Expressions Using Letter-Numbers",
+        "explanation": "This concept covers the main principles and important points in Expressions Using Letter-Numbers."
+      },
+      {
+        "title": "Applications of Expressions Using Letter-Numbers",
+        "explanation": "This concept explains common uses, examples, or relevance of Expressions Using Letter-Numbers."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "7_mathematics_expressions_using_letter_numbers_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Expressions Using Letter-Numbers'?",
+      "answer": "The chapter 'Expressions Using Letter-Numbers' introduces foundational concepts in mathematics for Class 7."
+    },
+    {
+      "question_id": "7_mathematics_expressions_using_letter_numbers_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Expressions Using Letter-Numbers'.",
+      "answer": "One important concept from 'Expressions Using Letter-Numbers' is understanding its core ideas and how they apply within mathematics."
+    },
+    {
+      "question_id": "7_mathematics_expressions_using_letter_numbers_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Expressions Using Letter-Numbers' be applied in a practical learning context?",
+      "answer": "The ideas from 'Expressions Using Letter-Numbers' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in mathematics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "7_mathematics_expressions_using_letter_numbers_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Expressions Using Letter-Numbers'?",
+      "options": {
+        "A": "Understanding the core concepts of Expressions Using Letter-Numbers",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Expressions Using Letter-Numbers' mainly focuses on understanding its core concepts in mathematics for Class 7."
+    },
+    {
+      "mcq_id": "7_mathematics_expressions_using_letter_numbers_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Expressions Using Letter-Numbers'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Expressions Using Letter-Numbers' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "7_mathematics_expressions_using_letter_numbers_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Expressions Using Letter-Numbers' important in the study of mathematics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within mathematics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Expressions Using Letter-Numbers' is important because it helps build understanding of major ideas and their relevance within mathematics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "cbse-7-science-life_processes_in_animals",
+  "curriculum": "CBSE",
+  "class": 7,
+  "stream": null,
+  "subject": "science",
+  "chapter_number": 9,
+  "chapter_title": "Life Processes in Animals",
+  "language": "en",
+  "book": "Curiosity (Grade 7)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Life Processes in Animals in science.",
+    "detailed_summary": "This chapter for Class 7 science explains the core concepts of Life Processes in Animals. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Life Processes in Animals",
+        "explanation": "This concept introduces the basic idea of Life Processes in Animals."
+      },
+      {
+        "title": "Core ideas in Life Processes in Animals",
+        "explanation": "This concept covers the main principles and important points in Life Processes in Animals."
+      },
+      {
+        "title": "Applications of Life Processes in Animals",
+        "explanation": "This concept explains common uses, examples, or relevance of Life Processes in Animals."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "7_science_life_processes_in_animals_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Life Processes in Animals'?",
+      "answer": "The chapter 'Life Processes in Animals' introduces foundational concepts in science for Class 7."
+    },
+    {
+      "question_id": "7_science_life_processes_in_animals_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Life Processes in Animals'.",
+      "answer": "One important concept from 'Life Processes in Animals' is understanding its core ideas and how they apply within science."
+    },
+    {
+      "question_id": "7_science_life_processes_in_animals_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Life Processes in Animals' be applied in a practical learning context?",
+      "answer": "The ideas from 'Life Processes in Animals' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in science."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "7_science_life_processes_in_animals_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Life Processes in Animals'?",
+      "options": {
+        "A": "Understanding the core concepts of Life Processes in Animals",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Life Processes in Animals' mainly focuses on understanding its core concepts in science for Class 7."
+    },
+    {
+      "mcq_id": "7_science_life_processes_in_animals_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Life Processes in Animals'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Life Processes in Animals' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "7_science_life_processes_in_animals_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Life Processes in Animals' important in the study of science?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within science",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Life Processes in Animals' is important because it helps build understanding of major ideas and their relevance within science."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

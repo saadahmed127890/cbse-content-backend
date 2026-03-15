@@ -1,0 +1,101 @@
+{
+  "id": "cbse-7-mathematics-a_peek_beyond_the_point",
+  "curriculum": "CBSE",
+  "class": 7,
+  "stream": null,
+  "subject": "mathematics",
+  "chapter_number": 3,
+  "chapter_title": "A Peek Beyond the Point",
+  "language": "en",
+  "book": "Ganita Prakash (Grade 7)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of A Peek Beyond the Point in mathematics.",
+    "detailed_summary": "This chapter for Class 7 mathematics explains the core concepts of A Peek Beyond the Point. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to A Peek Beyond the Point",
+        "explanation": "This concept introduces the basic idea of A Peek Beyond the Point."
+      },
+      {
+        "title": "Core ideas in A Peek Beyond the Point",
+        "explanation": "This concept covers the main principles and important points in A Peek Beyond the Point."
+      },
+      {
+        "title": "Applications of A Peek Beyond the Point",
+        "explanation": "This concept explains common uses, examples, or relevance of A Peek Beyond the Point."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "7_mathematics_a_peek_beyond_the_point_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'A Peek Beyond the Point'?",
+      "answer": "The chapter 'A Peek Beyond the Point' introduces foundational concepts in mathematics for Class 7."
+    },
+    {
+      "question_id": "7_mathematics_a_peek_beyond_the_point_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'A Peek Beyond the Point'.",
+      "answer": "One important concept from 'A Peek Beyond the Point' is understanding its core ideas and how they apply within mathematics."
+    },
+    {
+      "question_id": "7_mathematics_a_peek_beyond_the_point_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'A Peek Beyond the Point' be applied in a practical learning context?",
+      "answer": "The ideas from 'A Peek Beyond the Point' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in mathematics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "7_mathematics_a_peek_beyond_the_point_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'A Peek Beyond the Point'?",
+      "options": {
+        "A": "Understanding the core concepts of A Peek Beyond the Point",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'A Peek Beyond the Point' mainly focuses on understanding its core concepts in mathematics for Class 7."
+    },
+    {
+      "mcq_id": "7_mathematics_a_peek_beyond_the_point_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'A Peek Beyond the Point'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'A Peek Beyond the Point' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "7_mathematics_a_peek_beyond_the_point_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'A Peek Beyond the Point' important in the study of mathematics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within mathematics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'A Peek Beyond the Point' is important because it helps build understanding of major ideas and their relevance within mathematics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

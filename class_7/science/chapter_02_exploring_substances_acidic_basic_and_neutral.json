@@ -1,0 +1,101 @@
+{
+  "id": "cbse-7-science-exploring_substances_acidic_basic_and_neutral",
+  "curriculum": "CBSE",
+  "class": 7,
+  "stream": null,
+  "subject": "science",
+  "chapter_number": 2,
+  "chapter_title": "Exploring Substances: Acidic, Basic and Neutral",
+  "language": "en",
+  "book": "Curiosity (Grade 7)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Exploring Substances: Acidic, Basic and Neutral in science.",
+    "detailed_summary": "This chapter for Class 7 science explains the core concepts of Exploring Substances: Acidic, Basic and Neutral. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Exploring Substances: Acidic, Basic and Neutral",
+        "explanation": "This concept introduces the basic idea of Exploring Substances: Acidic, Basic and Neutral."
+      },
+      {
+        "title": "Core ideas in Exploring Substances: Acidic, Basic and Neutral",
+        "explanation": "This concept covers the main principles and important points in Exploring Substances: Acidic, Basic and Neutral."
+      },
+      {
+        "title": "Applications of Exploring Substances: Acidic, Basic and Neutral",
+        "explanation": "This concept explains common uses, examples, or relevance of Exploring Substances: Acidic, Basic and Neutral."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "7_science_exploring_substances_acidic_basic_and_neutral_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Exploring Substances: Acidic, Basic and Neutral'?",
+      "answer": "The chapter 'Exploring Substances: Acidic, Basic and Neutral' introduces foundational concepts in science for Class 7."
+    },
+    {
+      "question_id": "7_science_exploring_substances_acidic_basic_and_neutral_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Exploring Substances: Acidic, Basic and Neutral'.",
+      "answer": "One important concept from 'Exploring Substances: Acidic, Basic and Neutral' is understanding its core ideas and how they apply within science."
+    },
+    {
+      "question_id": "7_science_exploring_substances_acidic_basic_and_neutral_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Exploring Substances: Acidic, Basic and Neutral' be applied in a practical learning context?",
+      "answer": "The ideas from 'Exploring Substances: Acidic, Basic and Neutral' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in science."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "7_science_exploring_substances_acidic_basic_and_neutral_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Exploring Substances: Acidic, Basic and Neutral'?",
+      "options": {
+        "A": "Understanding the core concepts of Exploring Substances: Acidic, Basic and Neutral",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Exploring Substances: Acidic, Basic and Neutral' mainly focuses on understanding its core concepts in science for Class 7."
+    },
+    {
+      "mcq_id": "7_science_exploring_substances_acidic_basic_and_neutral_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Exploring Substances: Acidic, Basic and Neutral'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Exploring Substances: Acidic, Basic and Neutral' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "7_science_exploring_substances_acidic_basic_and_neutral_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Exploring Substances: Acidic, Basic and Neutral' important in the study of science?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within science",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Exploring Substances: Acidic, Basic and Neutral' is important because it helps build understanding of major ideas and their relevance within science."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

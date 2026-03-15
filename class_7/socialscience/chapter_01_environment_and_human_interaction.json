@@ -1,0 +1,101 @@
+{
+  "id": "cbse-7-socialscience-environment_and_human_interaction",
+  "curriculum": "CBSE",
+  "class": 7,
+  "stream": null,
+  "subject": "socialscience",
+  "chapter_number": 1,
+  "chapter_title": "Environment and Human Interaction",
+  "language": "en",
+  "book": "Exploring Society: India and Beyond (Grade 7)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Environment and Human Interaction in socialscience.",
+    "detailed_summary": "This chapter for Class 7 socialscience explains the core concepts of Environment and Human Interaction. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Environment and Human Interaction",
+        "explanation": "This concept introduces the basic idea of Environment and Human Interaction."
+      },
+      {
+        "title": "Core ideas in Environment and Human Interaction",
+        "explanation": "This concept covers the main principles and important points in Environment and Human Interaction."
+      },
+      {
+        "title": "Applications of Environment and Human Interaction",
+        "explanation": "This concept explains common uses, examples, or relevance of Environment and Human Interaction."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "7_socialscience_environment_and_human_interaction_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Environment and Human Interaction'?",
+      "answer": "The chapter 'Environment and Human Interaction' introduces foundational concepts in socialscience for Class 7."
+    },
+    {
+      "question_id": "7_socialscience_environment_and_human_interaction_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Environment and Human Interaction'.",
+      "answer": "One important concept from 'Environment and Human Interaction' is understanding its core ideas and how they apply within socialscience."
+    },
+    {
+      "question_id": "7_socialscience_environment_and_human_interaction_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Environment and Human Interaction' be applied in a practical learning context?",
+      "answer": "The ideas from 'Environment and Human Interaction' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in socialscience."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "7_socialscience_environment_and_human_interaction_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Environment and Human Interaction'?",
+      "options": {
+        "A": "Understanding the core concepts of Environment and Human Interaction",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Environment and Human Interaction' mainly focuses on understanding its core concepts in socialscience for Class 7."
+    },
+    {
+      "mcq_id": "7_socialscience_environment_and_human_interaction_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Environment and Human Interaction'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Environment and Human Interaction' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "7_socialscience_environment_and_human_interaction_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Environment and Human Interaction' important in the study of socialscience?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within socialscience",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Environment and Human Interaction' is important because it helps build understanding of major ideas and their relevance within socialscience."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

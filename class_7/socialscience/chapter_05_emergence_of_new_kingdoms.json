@@ -1,0 +1,101 @@
+{
+  "id": "cbse-7-socialscience-emergence_of_new_kingdoms",
+  "curriculum": "CBSE",
+  "class": 7,
+  "stream": null,
+  "subject": "socialscience",
+  "chapter_number": 5,
+  "chapter_title": "Emergence of New Kingdoms",
+  "language": "en",
+  "book": "Exploring Society: India and Beyond (Grade 7)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Emergence of New Kingdoms in socialscience.",
+    "detailed_summary": "This chapter for Class 7 socialscience explains the core concepts of Emergence of New Kingdoms. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Emergence of New Kingdoms",
+        "explanation": "This concept introduces the basic idea of Emergence of New Kingdoms."
+      },
+      {
+        "title": "Core ideas in Emergence of New Kingdoms",
+        "explanation": "This concept covers the main principles and important points in Emergence of New Kingdoms."
+      },
+      {
+        "title": "Applications of Emergence of New Kingdoms",
+        "explanation": "This concept explains common uses, examples, or relevance of Emergence of New Kingdoms."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "7_socialscience_emergence_of_new_kingdoms_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Emergence of New Kingdoms'?",
+      "answer": "The chapter 'Emergence of New Kingdoms' introduces foundational concepts in socialscience for Class 7."
+    },
+    {
+      "question_id": "7_socialscience_emergence_of_new_kingdoms_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Emergence of New Kingdoms'.",
+      "answer": "One important concept from 'Emergence of New Kingdoms' is understanding its core ideas and how they apply within socialscience."
+    },
+    {
+      "question_id": "7_socialscience_emergence_of_new_kingdoms_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Emergence of New Kingdoms' be applied in a practical learning context?",
+      "answer": "The ideas from 'Emergence of New Kingdoms' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in socialscience."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "7_socialscience_emergence_of_new_kingdoms_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Emergence of New Kingdoms'?",
+      "options": {
+        "A": "Understanding the core concepts of Emergence of New Kingdoms",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Emergence of New Kingdoms' mainly focuses on understanding its core concepts in socialscience for Class 7."
+    },
+    {
+      "mcq_id": "7_socialscience_emergence_of_new_kingdoms_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Emergence of New Kingdoms'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Emergence of New Kingdoms' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "7_socialscience_emergence_of_new_kingdoms_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Emergence of New Kingdoms' important in the study of socialscience?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within socialscience",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Emergence of New Kingdoms' is important because it helps build understanding of major ideas and their relevance within socialscience."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

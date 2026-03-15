@@ -1,0 +1,101 @@
+{
+  "id": "cbse-7-science-the_world_of_metals_and_non_metals",
+  "curriculum": "CBSE",
+  "class": 7,
+  "stream": null,
+  "subject": "science",
+  "chapter_number": 4,
+  "chapter_title": "The World of Metals and Non-metals",
+  "language": "en",
+  "book": "Curiosity (Grade 7)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of The World of Metals and Non-metals in science.",
+    "detailed_summary": "This chapter for Class 7 science explains the core concepts of The World of Metals and Non-metals. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to The World of Metals and Non-metals",
+        "explanation": "This concept introduces the basic idea of The World of Metals and Non-metals."
+      },
+      {
+        "title": "Core ideas in The World of Metals and Non-metals",
+        "explanation": "This concept covers the main principles and important points in The World of Metals and Non-metals."
+      },
+      {
+        "title": "Applications of The World of Metals and Non-metals",
+        "explanation": "This concept explains common uses, examples, or relevance of The World of Metals and Non-metals."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "7_science_the_world_of_metals_and_non_metals_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'The World of Metals and Non-metals'?",
+      "answer": "The chapter 'The World of Metals and Non-metals' introduces foundational concepts in science for Class 7."
+    },
+    {
+      "question_id": "7_science_the_world_of_metals_and_non_metals_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'The World of Metals and Non-metals'.",
+      "answer": "One important concept from 'The World of Metals and Non-metals' is understanding its core ideas and how they apply within science."
+    },
+    {
+      "question_id": "7_science_the_world_of_metals_and_non_metals_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'The World of Metals and Non-metals' be applied in a practical learning context?",
+      "answer": "The ideas from 'The World of Metals and Non-metals' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in science."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "7_science_the_world_of_metals_and_non_metals_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'The World of Metals and Non-metals'?",
+      "options": {
+        "A": "Understanding the core concepts of The World of Metals and Non-metals",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'The World of Metals and Non-metals' mainly focuses on understanding its core concepts in science for Class 7."
+    },
+    {
+      "mcq_id": "7_science_the_world_of_metals_and_non_metals_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'The World of Metals and Non-metals'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'The World of Metals and Non-metals' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "7_science_the_world_of_metals_and_non_metals_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'The World of Metals and Non-metals' important in the study of science?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within science",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'The World of Metals and Non-metals' is important because it helps build understanding of major ideas and their relevance within science."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}
