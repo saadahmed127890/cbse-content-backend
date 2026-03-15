@@ -1,0 +1,101 @@
+{
+  "id": "cbse-6-socialscience-the_beginnings_of_indian_civilisation",
+  "curriculum": "CBSE",
+  "class": 6,
+  "stream": null,
+  "subject": "socialscience",
+  "chapter_number": 6,
+  "chapter_title": "The Beginnings of Indian Civilisation",
+  "language": "en",
+  "book": "Exploring Society: India and Beyond (Grade 6)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of The Beginnings of Indian Civilisation in socialscience.",
+    "detailed_summary": "This chapter for Class 6 socialscience explains the core concepts of The Beginnings of Indian Civilisation. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to The Beginnings of Indian Civilisation",
+        "explanation": "This concept introduces the basic idea of The Beginnings of Indian Civilisation."
+      },
+      {
+        "title": "Core ideas in The Beginnings of Indian Civilisation",
+        "explanation": "This concept covers the main principles and important points in The Beginnings of Indian Civilisation."
+      },
+      {
+        "title": "Applications of The Beginnings of Indian Civilisation",
+        "explanation": "This concept explains common uses, examples, or relevance of The Beginnings of Indian Civilisation."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "6_socialscience_the_beginnings_of_indian_civilisation_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'The Beginnings of Indian Civilisation'?",
+      "answer": "The chapter 'The Beginnings of Indian Civilisation' introduces foundational concepts in socialscience for Class 6."
+    },
+    {
+      "question_id": "6_socialscience_the_beginnings_of_indian_civilisation_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'The Beginnings of Indian Civilisation'.",
+      "answer": "One important concept from 'The Beginnings of Indian Civilisation' is understanding its core ideas and how they apply within socialscience."
+    },
+    {
+      "question_id": "6_socialscience_the_beginnings_of_indian_civilisation_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'The Beginnings of Indian Civilisation' be applied in a practical learning context?",
+      "answer": "The ideas from 'The Beginnings of Indian Civilisation' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in socialscience."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "6_socialscience_the_beginnings_of_indian_civilisation_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'The Beginnings of Indian Civilisation'?",
+      "options": {
+        "A": "Understanding the core concepts of The Beginnings of Indian Civilisation",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'The Beginnings of Indian Civilisation' mainly focuses on understanding its core concepts in socialscience for Class 6."
+    },
+    {
+      "mcq_id": "6_socialscience_the_beginnings_of_indian_civilisation_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'The Beginnings of Indian Civilisation'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'The Beginnings of Indian Civilisation' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "6_socialscience_the_beginnings_of_indian_civilisation_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'The Beginnings of Indian Civilisation' important in the study of socialscience?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within socialscience",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'The Beginnings of Indian Civilisation' is important because it helps build understanding of major ideas and their relevance within socialscience."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

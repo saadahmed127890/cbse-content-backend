@@ -1,0 +1,101 @@
+{
+  "id": "cbse-6-mathematics-patterns_in_mathematics",
+  "curriculum": "CBSE",
+  "class": 6,
+  "stream": null,
+  "subject": "mathematics",
+  "chapter_number": 1,
+  "chapter_title": "Patterns in Mathematics",
+  "language": "en",
+  "book": "Ganita Prakash (Grade 6)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Patterns in Mathematics in mathematics.",
+    "detailed_summary": "This chapter for Class 6 mathematics explains the core concepts of Patterns in Mathematics. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Patterns in Mathematics",
+        "explanation": "This concept introduces the basic idea of Patterns in Mathematics."
+      },
+      {
+        "title": "Core ideas in Patterns in Mathematics",
+        "explanation": "This concept covers the main principles and important points in Patterns in Mathematics."
+      },
+      {
+        "title": "Applications of Patterns in Mathematics",
+        "explanation": "This concept explains common uses, examples, or relevance of Patterns in Mathematics."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "6_mathematics_patterns_in_mathematics_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Patterns in Mathematics'?",
+      "answer": "The chapter 'Patterns in Mathematics' introduces foundational concepts in mathematics for Class 6."
+    },
+    {
+      "question_id": "6_mathematics_patterns_in_mathematics_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Patterns in Mathematics'.",
+      "answer": "One important concept from 'Patterns in Mathematics' is understanding its core ideas and how they apply within mathematics."
+    },
+    {
+      "question_id": "6_mathematics_patterns_in_mathematics_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Patterns in Mathematics' be applied in a practical learning context?",
+      "answer": "The ideas from 'Patterns in Mathematics' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in mathematics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "6_mathematics_patterns_in_mathematics_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Patterns in Mathematics'?",
+      "options": {
+        "A": "Understanding the core concepts of Patterns in Mathematics",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Patterns in Mathematics' mainly focuses on understanding its core concepts in mathematics for Class 6."
+    },
+    {
+      "mcq_id": "6_mathematics_patterns_in_mathematics_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Patterns in Mathematics'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Patterns in Mathematics' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "6_mathematics_patterns_in_mathematics_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Patterns in Mathematics' important in the study of mathematics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within mathematics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Patterns in Mathematics' is important because it helps build understanding of major ideas and their relevance within mathematics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

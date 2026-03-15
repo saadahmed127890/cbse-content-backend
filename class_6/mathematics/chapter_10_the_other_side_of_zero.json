@@ -1,0 +1,101 @@
+{
+  "id": "cbse-6-mathematics-the_other_side_of_zero",
+  "curriculum": "CBSE",
+  "class": 6,
+  "stream": null,
+  "subject": "mathematics",
+  "chapter_number": 10,
+  "chapter_title": "The Other Side of Zero",
+  "language": "en",
+  "book": "Ganita Prakash (Grade 6)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of The Other Side of Zero in mathematics.",
+    "detailed_summary": "This chapter for Class 6 mathematics explains the core concepts of The Other Side of Zero. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to The Other Side of Zero",
+        "explanation": "This concept introduces the basic idea of The Other Side of Zero."
+      },
+      {
+        "title": "Core ideas in The Other Side of Zero",
+        "explanation": "This concept covers the main principles and important points in The Other Side of Zero."
+      },
+      {
+        "title": "Applications of The Other Side of Zero",
+        "explanation": "This concept explains common uses, examples, or relevance of The Other Side of Zero."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "6_mathematics_the_other_side_of_zero_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'The Other Side of Zero'?",
+      "answer": "The chapter 'The Other Side of Zero' introduces foundational concepts in mathematics for Class 6."
+    },
+    {
+      "question_id": "6_mathematics_the_other_side_of_zero_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'The Other Side of Zero'.",
+      "answer": "One important concept from 'The Other Side of Zero' is understanding its core ideas and how they apply within mathematics."
+    },
+    {
+      "question_id": "6_mathematics_the_other_side_of_zero_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'The Other Side of Zero' be applied in a practical learning context?",
+      "answer": "The ideas from 'The Other Side of Zero' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in mathematics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "6_mathematics_the_other_side_of_zero_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'The Other Side of Zero'?",
+      "options": {
+        "A": "Understanding the core concepts of The Other Side of Zero",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'The Other Side of Zero' mainly focuses on understanding its core concepts in mathematics for Class 6."
+    },
+    {
+      "mcq_id": "6_mathematics_the_other_side_of_zero_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'The Other Side of Zero'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'The Other Side of Zero' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "6_mathematics_the_other_side_of_zero_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'The Other Side of Zero' important in the study of mathematics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within mathematics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'The Other Side of Zero' is important because it helps build understanding of major ideas and their relevance within mathematics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

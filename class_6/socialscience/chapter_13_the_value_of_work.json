@@ -1,0 +1,101 @@
+{
+  "id": "cbse-6-socialscience-the_value_of_work",
+  "curriculum": "CBSE",
+  "class": 6,
+  "stream": null,
+  "subject": "socialscience",
+  "chapter_number": 13,
+  "chapter_title": "The Value of Work",
+  "language": "en",
+  "book": "Exploring Society: India and Beyond (Grade 6)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of The Value of Work in socialscience.",
+    "detailed_summary": "This chapter for Class 6 socialscience explains the core concepts of The Value of Work. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to The Value of Work",
+        "explanation": "This concept introduces the basic idea of The Value of Work."
+      },
+      {
+        "title": "Core ideas in The Value of Work",
+        "explanation": "This concept covers the main principles and important points in The Value of Work."
+      },
+      {
+        "title": "Applications of The Value of Work",
+        "explanation": "This concept explains common uses, examples, or relevance of The Value of Work."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "6_socialscience_the_value_of_work_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'The Value of Work'?",
+      "answer": "The chapter 'The Value of Work' introduces foundational concepts in socialscience for Class 6."
+    },
+    {
+      "question_id": "6_socialscience_the_value_of_work_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'The Value of Work'.",
+      "answer": "One important concept from 'The Value of Work' is understanding its core ideas and how they apply within socialscience."
+    },
+    {
+      "question_id": "6_socialscience_the_value_of_work_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'The Value of Work' be applied in a practical learning context?",
+      "answer": "The ideas from 'The Value of Work' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in socialscience."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "6_socialscience_the_value_of_work_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'The Value of Work'?",
+      "options": {
+        "A": "Understanding the core concepts of The Value of Work",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'The Value of Work' mainly focuses on understanding its core concepts in socialscience for Class 6."
+    },
+    {
+      "mcq_id": "6_socialscience_the_value_of_work_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'The Value of Work'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'The Value of Work' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "6_socialscience_the_value_of_work_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'The Value of Work' important in the study of socialscience?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within socialscience",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'The Value of Work' is important because it helps build understanding of major ideas and their relevance within socialscience."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}
