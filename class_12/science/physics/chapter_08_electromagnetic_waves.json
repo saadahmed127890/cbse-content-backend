@@ -1,0 +1,101 @@
+{
+  "id": "cbse-12-science-physics-electromagnetic_waves",
+  "curriculum": "CBSE",
+  "class": 12,
+  "stream": "science",
+  "subject": "physics",
+  "chapter_number": 8,
+  "chapter_title": "Electromagnetic Waves",
+  "language": "en",
+  "book": "NCERT Physics Part I & II",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Electromagnetic Waves in physics.",
+    "detailed_summary": "This chapter for Class 12 physics explains the core concepts of Electromagnetic Waves. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Electromagnetic Waves",
+        "explanation": "This concept introduces the basic idea of Electromagnetic Waves."
+      },
+      {
+        "title": "Core ideas in Electromagnetic Waves",
+        "explanation": "This concept covers the main principles and important points in Electromagnetic Waves."
+      },
+      {
+        "title": "Applications of Electromagnetic Waves",
+        "explanation": "This concept explains common uses, examples, or relevance of Electromagnetic Waves."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "12_science_physics_electromagnetic_waves_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Electromagnetic Waves'?",
+      "answer": "The chapter 'Electromagnetic Waves' introduces foundational concepts in physics for Class 12."
+    },
+    {
+      "question_id": "12_science_physics_electromagnetic_waves_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Electromagnetic Waves'.",
+      "answer": "One important concept from 'Electromagnetic Waves' is understanding its core ideas and how they apply within physics."
+    },
+    {
+      "question_id": "12_science_physics_electromagnetic_waves_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Electromagnetic Waves' be applied in a practical learning context?",
+      "answer": "The ideas from 'Electromagnetic Waves' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in physics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "12_science_physics_electromagnetic_waves_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Electromagnetic Waves'?",
+      "options": {
+        "A": "Understanding the core concepts of Electromagnetic Waves",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Electromagnetic Waves' mainly focuses on understanding its core concepts in physics for Class 12."
+    },
+    {
+      "mcq_id": "12_science_physics_electromagnetic_waves_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Electromagnetic Waves'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Electromagnetic Waves' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "12_science_physics_electromagnetic_waves_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Electromagnetic Waves' important in the study of physics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within physics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Electromagnetic Waves' is important because it helps build understanding of major ideas and their relevance within physics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

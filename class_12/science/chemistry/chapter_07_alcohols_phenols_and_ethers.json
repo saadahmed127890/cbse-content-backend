@@ -1,0 +1,101 @@
+{
+  "id": "cbse-12-science-chemistry-alcohols_phenols_and_ethers",
+  "curriculum": "CBSE",
+  "class": 12,
+  "stream": "science",
+  "subject": "chemistry",
+  "chapter_number": 7,
+  "chapter_title": "Alcohols Phenols and Ethers",
+  "language": "en",
+  "book": "NCERT Chemistry Part I & II",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Alcohols Phenols and Ethers in chemistry.",
+    "detailed_summary": "This chapter for Class 12 chemistry explains the core concepts of Alcohols Phenols and Ethers. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Alcohols Phenols and Ethers",
+        "explanation": "This concept introduces the basic idea of Alcohols Phenols and Ethers."
+      },
+      {
+        "title": "Core ideas in Alcohols Phenols and Ethers",
+        "explanation": "This concept covers the main principles and important points in Alcohols Phenols and Ethers."
+      },
+      {
+        "title": "Applications of Alcohols Phenols and Ethers",
+        "explanation": "This concept explains common uses, examples, or relevance of Alcohols Phenols and Ethers."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "12_science_chemistry_alcohols_phenols_and_ethers_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Alcohols Phenols and Ethers'?",
+      "answer": "The chapter 'Alcohols Phenols and Ethers' introduces foundational concepts in chemistry for Class 12."
+    },
+    {
+      "question_id": "12_science_chemistry_alcohols_phenols_and_ethers_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Alcohols Phenols and Ethers'.",
+      "answer": "One important concept from 'Alcohols Phenols and Ethers' is understanding its core ideas and how they apply within chemistry."
+    },
+    {
+      "question_id": "12_science_chemistry_alcohols_phenols_and_ethers_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Alcohols Phenols and Ethers' be applied in a practical learning context?",
+      "answer": "The ideas from 'Alcohols Phenols and Ethers' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in chemistry."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "12_science_chemistry_alcohols_phenols_and_ethers_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Alcohols Phenols and Ethers'?",
+      "options": {
+        "A": "Understanding the core concepts of Alcohols Phenols and Ethers",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Alcohols Phenols and Ethers' mainly focuses on understanding its core concepts in chemistry for Class 12."
+    },
+    {
+      "mcq_id": "12_science_chemistry_alcohols_phenols_and_ethers_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Alcohols Phenols and Ethers'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Alcohols Phenols and Ethers' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "12_science_chemistry_alcohols_phenols_and_ethers_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Alcohols Phenols and Ethers' important in the study of chemistry?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within chemistry",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Alcohols Phenols and Ethers' is important because it helps build understanding of major ideas and their relevance within chemistry."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

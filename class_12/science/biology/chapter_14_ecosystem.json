@@ -1,0 +1,101 @@
+{
+  "id": "cbse-12-science-biology-ecosystem",
+  "curriculum": "CBSE",
+  "class": 12,
+  "stream": "science",
+  "subject": "biology",
+  "chapter_number": 14,
+  "chapter_title": "Ecosystem",
+  "language": "en",
+  "book": "NCERT Biology",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Ecosystem in biology.",
+    "detailed_summary": "This chapter for Class 12 biology explains the core concepts of Ecosystem. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Ecosystem",
+        "explanation": "This concept introduces the basic idea of Ecosystem."
+      },
+      {
+        "title": "Core ideas in Ecosystem",
+        "explanation": "This concept covers the main principles and important points in Ecosystem."
+      },
+      {
+        "title": "Applications of Ecosystem",
+        "explanation": "This concept explains common uses, examples, or relevance of Ecosystem."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "12_science_biology_ecosystem_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Ecosystem'?",
+      "answer": "The chapter 'Ecosystem' introduces foundational concepts in biology for Class 12."
+    },
+    {
+      "question_id": "12_science_biology_ecosystem_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Ecosystem'.",
+      "answer": "One important concept from 'Ecosystem' is understanding its core ideas and how they apply within biology."
+    },
+    {
+      "question_id": "12_science_biology_ecosystem_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Ecosystem' be applied in a practical learning context?",
+      "answer": "The ideas from 'Ecosystem' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in biology."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "12_science_biology_ecosystem_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Ecosystem'?",
+      "options": {
+        "A": "Understanding the core concepts of Ecosystem",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Ecosystem' mainly focuses on understanding its core concepts in biology for Class 12."
+    },
+    {
+      "mcq_id": "12_science_biology_ecosystem_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Ecosystem'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Ecosystem' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "12_science_biology_ecosystem_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Ecosystem' important in the study of biology?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within biology",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Ecosystem' is important because it helps build understanding of major ideas and their relevance within biology."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}
