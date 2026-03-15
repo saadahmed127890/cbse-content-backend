@@ -1,0 +1,101 @@
+{
+  "id": "cbse-8-science-environmental_sustainability",
+  "curriculum": "CBSE",
+  "class": 8,
+  "stream": null,
+  "subject": "science",
+  "chapter_number": 9,
+  "chapter_title": "Environmental Sustainability",
+  "language": "en",
+  "book": "Curiosity (Grade 8)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Environmental Sustainability in science.",
+    "detailed_summary": "This chapter for Class 8 science explains the core concepts of Environmental Sustainability. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Environmental Sustainability",
+        "explanation": "This concept introduces the basic idea of Environmental Sustainability."
+      },
+      {
+        "title": "Core ideas in Environmental Sustainability",
+        "explanation": "This concept covers the main principles and important points in Environmental Sustainability."
+      },
+      {
+        "title": "Applications of Environmental Sustainability",
+        "explanation": "This concept explains common uses, examples, or relevance of Environmental Sustainability."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "8_science_environmental_sustainability_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Environmental Sustainability'?",
+      "answer": "The chapter 'Environmental Sustainability' introduces foundational concepts in science for Class 8."
+    },
+    {
+      "question_id": "8_science_environmental_sustainability_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Environmental Sustainability'.",
+      "answer": "One important concept from 'Environmental Sustainability' is understanding its core ideas and how they apply within science."
+    },
+    {
+      "question_id": "8_science_environmental_sustainability_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Environmental Sustainability' be applied in a practical learning context?",
+      "answer": "The ideas from 'Environmental Sustainability' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in science."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "8_science_environmental_sustainability_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Environmental Sustainability'?",
+      "options": {
+        "A": "Understanding the core concepts of Environmental Sustainability",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Environmental Sustainability' mainly focuses on understanding its core concepts in science for Class 8."
+    },
+    {
+      "mcq_id": "8_science_environmental_sustainability_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Environmental Sustainability'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Environmental Sustainability' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "8_science_environmental_sustainability_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Environmental Sustainability' important in the study of science?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within science",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Environmental Sustainability' is important because it helps build understanding of major ideas and their relevance within science."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

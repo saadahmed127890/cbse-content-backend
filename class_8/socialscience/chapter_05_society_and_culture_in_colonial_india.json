@@ -1,0 +1,101 @@
+{
+  "id": "cbse-8-socialscience-society_and_culture_in_colonial_india",
+  "curriculum": "CBSE",
+  "class": 8,
+  "stream": null,
+  "subject": "socialscience",
+  "chapter_number": 5,
+  "chapter_title": "Society and Culture in Colonial India",
+  "language": "en",
+  "book": "Exploring Society: India and Beyond (Grade 8)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Society and Culture in Colonial India in socialscience.",
+    "detailed_summary": "This chapter for Class 8 socialscience explains the core concepts of Society and Culture in Colonial India. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Society and Culture in Colonial India",
+        "explanation": "This concept introduces the basic idea of Society and Culture in Colonial India."
+      },
+      {
+        "title": "Core ideas in Society and Culture in Colonial India",
+        "explanation": "This concept covers the main principles and important points in Society and Culture in Colonial India."
+      },
+      {
+        "title": "Applications of Society and Culture in Colonial India",
+        "explanation": "This concept explains common uses, examples, or relevance of Society and Culture in Colonial India."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "8_socialscience_society_and_culture_in_colonial_india_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Society and Culture in Colonial India'?",
+      "answer": "The chapter 'Society and Culture in Colonial India' introduces foundational concepts in socialscience for Class 8."
+    },
+    {
+      "question_id": "8_socialscience_society_and_culture_in_colonial_india_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Society and Culture in Colonial India'.",
+      "answer": "One important concept from 'Society and Culture in Colonial India' is understanding its core ideas and how they apply within socialscience."
+    },
+    {
+      "question_id": "8_socialscience_society_and_culture_in_colonial_india_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Society and Culture in Colonial India' be applied in a practical learning context?",
+      "answer": "The ideas from 'Society and Culture in Colonial India' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in socialscience."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "8_socialscience_society_and_culture_in_colonial_india_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Society and Culture in Colonial India'?",
+      "options": {
+        "A": "Understanding the core concepts of Society and Culture in Colonial India",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Society and Culture in Colonial India' mainly focuses on understanding its core concepts in socialscience for Class 8."
+    },
+    {
+      "mcq_id": "8_socialscience_society_and_culture_in_colonial_india_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Society and Culture in Colonial India'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Society and Culture in Colonial India' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "8_socialscience_society_and_culture_in_colonial_india_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Society and Culture in Colonial India' important in the study of socialscience?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within socialscience",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Society and Culture in Colonial India' is important because it helps build understanding of major ideas and their relevance within socialscience."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

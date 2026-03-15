@@ -1,0 +1,101 @@
+{
+  "id": "cbse-8-socialscience-struggles_for_freedom",
+  "curriculum": "CBSE",
+  "class": 8,
+  "stream": null,
+  "subject": "socialscience",
+  "chapter_number": 7,
+  "chapter_title": "Struggles for Freedom",
+  "language": "en",
+  "book": "Exploring Society: India and Beyond (Grade 8)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Struggles for Freedom in socialscience.",
+    "detailed_summary": "This chapter for Class 8 socialscience explains the core concepts of Struggles for Freedom. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Struggles for Freedom",
+        "explanation": "This concept introduces the basic idea of Struggles for Freedom."
+      },
+      {
+        "title": "Core ideas in Struggles for Freedom",
+        "explanation": "This concept covers the main principles and important points in Struggles for Freedom."
+      },
+      {
+        "title": "Applications of Struggles for Freedom",
+        "explanation": "This concept explains common uses, examples, or relevance of Struggles for Freedom."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "8_socialscience_struggles_for_freedom_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Struggles for Freedom'?",
+      "answer": "The chapter 'Struggles for Freedom' introduces foundational concepts in socialscience for Class 8."
+    },
+    {
+      "question_id": "8_socialscience_struggles_for_freedom_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Struggles for Freedom'.",
+      "answer": "One important concept from 'Struggles for Freedom' is understanding its core ideas and how they apply within socialscience."
+    },
+    {
+      "question_id": "8_socialscience_struggles_for_freedom_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Struggles for Freedom' be applied in a practical learning context?",
+      "answer": "The ideas from 'Struggles for Freedom' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in socialscience."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "8_socialscience_struggles_for_freedom_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Struggles for Freedom'?",
+      "options": {
+        "A": "Understanding the core concepts of Struggles for Freedom",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Struggles for Freedom' mainly focuses on understanding its core concepts in socialscience for Class 8."
+    },
+    {
+      "mcq_id": "8_socialscience_struggles_for_freedom_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Struggles for Freedom'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Struggles for Freedom' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "8_socialscience_struggles_for_freedom_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Struggles for Freedom' important in the study of socialscience?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within socialscience",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Struggles for Freedom' is important because it helps build understanding of major ideas and their relevance within socialscience."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

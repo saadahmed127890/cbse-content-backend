@@ -1,0 +1,101 @@
+{
+  "id": "cbse-8-science-electricity_magnetic_and_heating_effects",
+  "curriculum": "CBSE",
+  "class": 8,
+  "stream": null,
+  "subject": "science",
+  "chapter_number": 4,
+  "chapter_title": "Electricity: Magnetic and Heating Effects",
+  "language": "en",
+  "book": "Curiosity (Grade 8)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Electricity: Magnetic and Heating Effects in science.",
+    "detailed_summary": "This chapter for Class 8 science explains the core concepts of Electricity: Magnetic and Heating Effects. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Electricity: Magnetic and Heating Effects",
+        "explanation": "This concept introduces the basic idea of Electricity: Magnetic and Heating Effects."
+      },
+      {
+        "title": "Core ideas in Electricity: Magnetic and Heating Effects",
+        "explanation": "This concept covers the main principles and important points in Electricity: Magnetic and Heating Effects."
+      },
+      {
+        "title": "Applications of Electricity: Magnetic and Heating Effects",
+        "explanation": "This concept explains common uses, examples, or relevance of Electricity: Magnetic and Heating Effects."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "8_science_electricity_magnetic_and_heating_effects_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Electricity: Magnetic and Heating Effects'?",
+      "answer": "The chapter 'Electricity: Magnetic and Heating Effects' introduces foundational concepts in science for Class 8."
+    },
+    {
+      "question_id": "8_science_electricity_magnetic_and_heating_effects_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Electricity: Magnetic and Heating Effects'.",
+      "answer": "One important concept from 'Electricity: Magnetic and Heating Effects' is understanding its core ideas and how they apply within science."
+    },
+    {
+      "question_id": "8_science_electricity_magnetic_and_heating_effects_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Electricity: Magnetic and Heating Effects' be applied in a practical learning context?",
+      "answer": "The ideas from 'Electricity: Magnetic and Heating Effects' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in science."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "8_science_electricity_magnetic_and_heating_effects_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Electricity: Magnetic and Heating Effects'?",
+      "options": {
+        "A": "Understanding the core concepts of Electricity: Magnetic and Heating Effects",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Electricity: Magnetic and Heating Effects' mainly focuses on understanding its core concepts in science for Class 8."
+    },
+    {
+      "mcq_id": "8_science_electricity_magnetic_and_heating_effects_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Electricity: Magnetic and Heating Effects'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Electricity: Magnetic and Heating Effects' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "8_science_electricity_magnetic_and_heating_effects_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Electricity: Magnetic and Heating Effects' important in the study of science?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within science",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Electricity: Magnetic and Heating Effects' is important because it helps build understanding of major ideas and their relevance within science."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "cbse-8-science-earth_and_space",
+  "curriculum": "CBSE",
+  "class": 8,
+  "stream": null,
+  "subject": "science",
+  "chapter_number": 8,
+  "chapter_title": "Earth and Space",
+  "language": "en",
+  "book": "Curiosity (Grade 8)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Earth and Space in science.",
+    "detailed_summary": "This chapter for Class 8 science explains the core concepts of Earth and Space. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Earth and Space",
+        "explanation": "This concept introduces the basic idea of Earth and Space."
+      },
+      {
+        "title": "Core ideas in Earth and Space",
+        "explanation": "This concept covers the main principles and important points in Earth and Space."
+      },
+      {
+        "title": "Applications of Earth and Space",
+        "explanation": "This concept explains common uses, examples, or relevance of Earth and Space."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "8_science_earth_and_space_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Earth and Space'?",
+      "answer": "The chapter 'Earth and Space' introduces foundational concepts in science for Class 8."
+    },
+    {
+      "question_id": "8_science_earth_and_space_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Earth and Space'.",
+      "answer": "One important concept from 'Earth and Space' is understanding its core ideas and how they apply within science."
+    },
+    {
+      "question_id": "8_science_earth_and_space_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Earth and Space' be applied in a practical learning context?",
+      "answer": "The ideas from 'Earth and Space' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in science."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "8_science_earth_and_space_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Earth and Space'?",
+      "options": {
+        "A": "Understanding the core concepts of Earth and Space",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Earth and Space' mainly focuses on understanding its core concepts in science for Class 8."
+    },
+    {
+      "mcq_id": "8_science_earth_and_space_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Earth and Space'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Earth and Space' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "8_science_earth_and_space_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Earth and Space' important in the study of science?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within science",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Earth and Space' is important because it helps build understanding of major ideas and their relevance within science."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

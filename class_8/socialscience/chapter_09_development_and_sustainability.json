@@ -1,0 +1,101 @@
+{
+  "id": "cbse-8-socialscience-development_and_sustainability",
+  "curriculum": "CBSE",
+  "class": 8,
+  "stream": null,
+  "subject": "socialscience",
+  "chapter_number": 9,
+  "chapter_title": "Development and Sustainability",
+  "language": "en",
+  "book": "Exploring Society: India and Beyond (Grade 8)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Development and Sustainability in socialscience.",
+    "detailed_summary": "This chapter for Class 8 socialscience explains the core concepts of Development and Sustainability. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Development and Sustainability",
+        "explanation": "This concept introduces the basic idea of Development and Sustainability."
+      },
+      {
+        "title": "Core ideas in Development and Sustainability",
+        "explanation": "This concept covers the main principles and important points in Development and Sustainability."
+      },
+      {
+        "title": "Applications of Development and Sustainability",
+        "explanation": "This concept explains common uses, examples, or relevance of Development and Sustainability."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "8_socialscience_development_and_sustainability_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Development and Sustainability'?",
+      "answer": "The chapter 'Development and Sustainability' introduces foundational concepts in socialscience for Class 8."
+    },
+    {
+      "question_id": "8_socialscience_development_and_sustainability_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Development and Sustainability'.",
+      "answer": "One important concept from 'Development and Sustainability' is understanding its core ideas and how they apply within socialscience."
+    },
+    {
+      "question_id": "8_socialscience_development_and_sustainability_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Development and Sustainability' be applied in a practical learning context?",
+      "answer": "The ideas from 'Development and Sustainability' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in socialscience."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "8_socialscience_development_and_sustainability_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Development and Sustainability'?",
+      "options": {
+        "A": "Understanding the core concepts of Development and Sustainability",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Development and Sustainability' mainly focuses on understanding its core concepts in socialscience for Class 8."
+    },
+    {
+      "mcq_id": "8_socialscience_development_and_sustainability_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Development and Sustainability'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Development and Sustainability' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "8_socialscience_development_and_sustainability_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Development and Sustainability' important in the study of socialscience?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within socialscience",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Development and Sustainability' is important because it helps build understanding of major ideas and their relevance within socialscience."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

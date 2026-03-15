@@ -1,0 +1,101 @@
+{
+  "id": "cbse-8-mathematics-algebraic_identities",
+  "curriculum": "CBSE",
+  "class": 8,
+  "stream": null,
+  "subject": "mathematics",
+  "chapter_number": 12,
+  "chapter_title": "Algebraic Identities",
+  "language": "en",
+  "book": "Ganita Prakash (Grade 8)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Algebraic Identities in mathematics.",
+    "detailed_summary": "This chapter for Class 8 mathematics explains the core concepts of Algebraic Identities. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Algebraic Identities",
+        "explanation": "This concept introduces the basic idea of Algebraic Identities."
+      },
+      {
+        "title": "Core ideas in Algebraic Identities",
+        "explanation": "This concept covers the main principles and important points in Algebraic Identities."
+      },
+      {
+        "title": "Applications of Algebraic Identities",
+        "explanation": "This concept explains common uses, examples, or relevance of Algebraic Identities."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "8_mathematics_algebraic_identities_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Algebraic Identities'?",
+      "answer": "The chapter 'Algebraic Identities' introduces foundational concepts in mathematics for Class 8."
+    },
+    {
+      "question_id": "8_mathematics_algebraic_identities_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Algebraic Identities'.",
+      "answer": "One important concept from 'Algebraic Identities' is understanding its core ideas and how they apply within mathematics."
+    },
+    {
+      "question_id": "8_mathematics_algebraic_identities_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Algebraic Identities' be applied in a practical learning context?",
+      "answer": "The ideas from 'Algebraic Identities' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in mathematics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "8_mathematics_algebraic_identities_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Algebraic Identities'?",
+      "options": {
+        "A": "Understanding the core concepts of Algebraic Identities",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Algebraic Identities' mainly focuses on understanding its core concepts in mathematics for Class 8."
+    },
+    {
+      "mcq_id": "8_mathematics_algebraic_identities_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Algebraic Identities'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Algebraic Identities' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "8_mathematics_algebraic_identities_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Algebraic Identities' important in the study of mathematics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within mathematics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Algebraic Identities' is important because it helps build understanding of major ideas and their relevance within mathematics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

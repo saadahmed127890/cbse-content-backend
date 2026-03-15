@@ -1,0 +1,101 @@
+{
+  "id": "cbse-8-mathematics-a_story_of_numbers",
+  "curriculum": "CBSE",
+  "class": 8,
+  "stream": null,
+  "subject": "mathematics",
+  "chapter_number": 3,
+  "chapter_title": "A Story of Numbers",
+  "language": "en",
+  "book": "Ganita Prakash (Grade 8)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of A Story of Numbers in mathematics.",
+    "detailed_summary": "This chapter for Class 8 mathematics explains the core concepts of A Story of Numbers. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to A Story of Numbers",
+        "explanation": "This concept introduces the basic idea of A Story of Numbers."
+      },
+      {
+        "title": "Core ideas in A Story of Numbers",
+        "explanation": "This concept covers the main principles and important points in A Story of Numbers."
+      },
+      {
+        "title": "Applications of A Story of Numbers",
+        "explanation": "This concept explains common uses, examples, or relevance of A Story of Numbers."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "8_mathematics_a_story_of_numbers_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'A Story of Numbers'?",
+      "answer": "The chapter 'A Story of Numbers' introduces foundational concepts in mathematics for Class 8."
+    },
+    {
+      "question_id": "8_mathematics_a_story_of_numbers_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'A Story of Numbers'.",
+      "answer": "One important concept from 'A Story of Numbers' is understanding its core ideas and how they apply within mathematics."
+    },
+    {
+      "question_id": "8_mathematics_a_story_of_numbers_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'A Story of Numbers' be applied in a practical learning context?",
+      "answer": "The ideas from 'A Story of Numbers' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in mathematics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "8_mathematics_a_story_of_numbers_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'A Story of Numbers'?",
+      "options": {
+        "A": "Understanding the core concepts of A Story of Numbers",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'A Story of Numbers' mainly focuses on understanding its core concepts in mathematics for Class 8."
+    },
+    {
+      "mcq_id": "8_mathematics_a_story_of_numbers_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'A Story of Numbers'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'A Story of Numbers' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "8_mathematics_a_story_of_numbers_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'A Story of Numbers' important in the study of mathematics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within mathematics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'A Story of Numbers' is important because it helps build understanding of major ideas and their relevance within mathematics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}
