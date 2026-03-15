@@ -1,0 +1,101 @@
+{
+  "id": "cbse-11-science-biology-biomolecules",
+  "curriculum": "CBSE",
+  "class": 11,
+  "stream": "science",
+  "subject": "biology",
+  "chapter_number": 9,
+  "chapter_title": "Biomolecules",
+  "language": "en",
+  "book": "NCERT Biology",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Biomolecules in biology.",
+    "detailed_summary": "This chapter for Class 11 biology explains the core concepts of Biomolecules. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Biomolecules",
+        "explanation": "This concept introduces the basic idea of Biomolecules."
+      },
+      {
+        "title": "Core ideas in Biomolecules",
+        "explanation": "This concept covers the main principles and important points in Biomolecules."
+      },
+      {
+        "title": "Applications of Biomolecules",
+        "explanation": "This concept explains common uses, examples, or relevance of Biomolecules."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "11_science_biology_biomolecules_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Biomolecules'?",
+      "answer": "The chapter 'Biomolecules' introduces foundational concepts in biology for Class 11."
+    },
+    {
+      "question_id": "11_science_biology_biomolecules_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Biomolecules'.",
+      "answer": "One important concept from 'Biomolecules' is understanding its core ideas and how they apply within biology."
+    },
+    {
+      "question_id": "11_science_biology_biomolecules_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Biomolecules' be applied in a practical learning context?",
+      "answer": "The ideas from 'Biomolecules' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in biology."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "11_science_biology_biomolecules_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Biomolecules'?",
+      "options": {
+        "A": "Understanding the core concepts of Biomolecules",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Biomolecules' mainly focuses on understanding its core concepts in biology for Class 11."
+    },
+    {
+      "mcq_id": "11_science_biology_biomolecules_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Biomolecules'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Biomolecules' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "11_science_biology_biomolecules_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Biomolecules' important in the study of biology?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within biology",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Biomolecules' is important because it helps build understanding of major ideas and their relevance within biology."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

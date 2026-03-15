@@ -1,0 +1,101 @@
+{
+  "id": "cbse-11-science-biology-transport_in_plants",
+  "curriculum": "CBSE",
+  "class": 11,
+  "stream": "science",
+  "subject": "biology",
+  "chapter_number": 11,
+  "chapter_title": "Transport in Plants",
+  "language": "en",
+  "book": "NCERT Biology",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Transport in Plants in biology.",
+    "detailed_summary": "This chapter for Class 11 biology explains the core concepts of Transport in Plants. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Transport in Plants",
+        "explanation": "This concept introduces the basic idea of Transport in Plants."
+      },
+      {
+        "title": "Core ideas in Transport in Plants",
+        "explanation": "This concept covers the main principles and important points in Transport in Plants."
+      },
+      {
+        "title": "Applications of Transport in Plants",
+        "explanation": "This concept explains common uses, examples, or relevance of Transport in Plants."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "11_science_biology_transport_in_plants_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Transport in Plants'?",
+      "answer": "The chapter 'Transport in Plants' introduces foundational concepts in biology for Class 11."
+    },
+    {
+      "question_id": "11_science_biology_transport_in_plants_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Transport in Plants'.",
+      "answer": "One important concept from 'Transport in Plants' is understanding its core ideas and how they apply within biology."
+    },
+    {
+      "question_id": "11_science_biology_transport_in_plants_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Transport in Plants' be applied in a practical learning context?",
+      "answer": "The ideas from 'Transport in Plants' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in biology."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "11_science_biology_transport_in_plants_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Transport in Plants'?",
+      "options": {
+        "A": "Understanding the core concepts of Transport in Plants",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Transport in Plants' mainly focuses on understanding its core concepts in biology for Class 11."
+    },
+    {
+      "mcq_id": "11_science_biology_transport_in_plants_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Transport in Plants'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Transport in Plants' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "11_science_biology_transport_in_plants_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Transport in Plants' important in the study of biology?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within biology",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Transport in Plants' is important because it helps build understanding of major ideas and their relevance within biology."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "cbse-11-science-chemistry-p_block_elements",
+  "curriculum": "CBSE",
+  "class": 11,
+  "stream": "science",
+  "subject": "chemistry",
+  "chapter_number": 11,
+  "chapter_title": "p-Block Elements",
+  "language": "en",
+  "book": "NCERT Chemistry Part I & II",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of p-Block Elements in chemistry.",
+    "detailed_summary": "This chapter for Class 11 chemistry explains the core concepts of p-Block Elements. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to p-Block Elements",
+        "explanation": "This concept introduces the basic idea of p-Block Elements."
+      },
+      {
+        "title": "Core ideas in p-Block Elements",
+        "explanation": "This concept covers the main principles and important points in p-Block Elements."
+      },
+      {
+        "title": "Applications of p-Block Elements",
+        "explanation": "This concept explains common uses, examples, or relevance of p-Block Elements."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "11_science_chemistry_p_block_elements_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'p-Block Elements'?",
+      "answer": "The chapter 'p-Block Elements' introduces foundational concepts in chemistry for Class 11."
+    },
+    {
+      "question_id": "11_science_chemistry_p_block_elements_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'p-Block Elements'.",
+      "answer": "One important concept from 'p-Block Elements' is understanding its core ideas and how they apply within chemistry."
+    },
+    {
+      "question_id": "11_science_chemistry_p_block_elements_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'p-Block Elements' be applied in a practical learning context?",
+      "answer": "The ideas from 'p-Block Elements' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in chemistry."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "11_science_chemistry_p_block_elements_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'p-Block Elements'?",
+      "options": {
+        "A": "Understanding the core concepts of p-Block Elements",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'p-Block Elements' mainly focuses on understanding its core concepts in chemistry for Class 11."
+    },
+    {
+      "mcq_id": "11_science_chemistry_p_block_elements_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'p-Block Elements'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'p-Block Elements' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "11_science_chemistry_p_block_elements_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'p-Block Elements' important in the study of chemistry?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within chemistry",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'p-Block Elements' is important because it helps build understanding of major ideas and their relevance within chemistry."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "cbse-11-science-biology-cell_the_unit_of_life",
+  "curriculum": "CBSE",
+  "class": 11,
+  "stream": "science",
+  "subject": "biology",
+  "chapter_number": 8,
+  "chapter_title": "Cell The Unit of Life",
+  "language": "en",
+  "book": "NCERT Biology",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Cell The Unit of Life in biology.",
+    "detailed_summary": "This chapter for Class 11 biology explains the core concepts of Cell The Unit of Life. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Cell The Unit of Life",
+        "explanation": "This concept introduces the basic idea of Cell The Unit of Life."
+      },
+      {
+        "title": "Core ideas in Cell The Unit of Life",
+        "explanation": "This concept covers the main principles and important points in Cell The Unit of Life."
+      },
+      {
+        "title": "Applications of Cell The Unit of Life",
+        "explanation": "This concept explains common uses, examples, or relevance of Cell The Unit of Life."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "11_science_biology_cell_the_unit_of_life_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Cell The Unit of Life'?",
+      "answer": "The chapter 'Cell The Unit of Life' introduces foundational concepts in biology for Class 11."
+    },
+    {
+      "question_id": "11_science_biology_cell_the_unit_of_life_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Cell The Unit of Life'.",
+      "answer": "One important concept from 'Cell The Unit of Life' is understanding its core ideas and how they apply within biology."
+    },
+    {
+      "question_id": "11_science_biology_cell_the_unit_of_life_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Cell The Unit of Life' be applied in a practical learning context?",
+      "answer": "The ideas from 'Cell The Unit of Life' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in biology."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "11_science_biology_cell_the_unit_of_life_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Cell The Unit of Life'?",
+      "options": {
+        "A": "Understanding the core concepts of Cell The Unit of Life",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Cell The Unit of Life' mainly focuses on understanding its core concepts in biology for Class 11."
+    },
+    {
+      "mcq_id": "11_science_biology_cell_the_unit_of_life_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Cell The Unit of Life'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Cell The Unit of Life' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "11_science_biology_cell_the_unit_of_life_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Cell The Unit of Life' important in the study of biology?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within biology",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Cell The Unit of Life' is important because it helps build understanding of major ideas and their relevance within biology."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "cbse-11-science-chemistry-organic_chemistry_basic_principles",
+  "curriculum": "CBSE",
+  "class": 11,
+  "stream": "science",
+  "subject": "chemistry",
+  "chapter_number": 12,
+  "chapter_title": "Organic Chemistry Basic Principles",
+  "language": "en",
+  "book": "NCERT Chemistry Part I & II",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Organic Chemistry Basic Principles in chemistry.",
+    "detailed_summary": "This chapter for Class 11 chemistry explains the core concepts of Organic Chemistry Basic Principles. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Organic Chemistry Basic Principles",
+        "explanation": "This concept introduces the basic idea of Organic Chemistry Basic Principles."
+      },
+      {
+        "title": "Core ideas in Organic Chemistry Basic Principles",
+        "explanation": "This concept covers the main principles and important points in Organic Chemistry Basic Principles."
+      },
+      {
+        "title": "Applications of Organic Chemistry Basic Principles",
+        "explanation": "This concept explains common uses, examples, or relevance of Organic Chemistry Basic Principles."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "11_science_chemistry_organic_chemistry_basic_principles_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Organic Chemistry Basic Principles'?",
+      "answer": "The chapter 'Organic Chemistry Basic Principles' introduces foundational concepts in chemistry for Class 11."
+    },
+    {
+      "question_id": "11_science_chemistry_organic_chemistry_basic_principles_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Organic Chemistry Basic Principles'.",
+      "answer": "One important concept from 'Organic Chemistry Basic Principles' is understanding its core ideas and how they apply within chemistry."
+    },
+    {
+      "question_id": "11_science_chemistry_organic_chemistry_basic_principles_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Organic Chemistry Basic Principles' be applied in a practical learning context?",
+      "answer": "The ideas from 'Organic Chemistry Basic Principles' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in chemistry."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "11_science_chemistry_organic_chemistry_basic_principles_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Organic Chemistry Basic Principles'?",
+      "options": {
+        "A": "Understanding the core concepts of Organic Chemistry Basic Principles",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Organic Chemistry Basic Principles' mainly focuses on understanding its core concepts in chemistry for Class 11."
+    },
+    {
+      "mcq_id": "11_science_chemistry_organic_chemistry_basic_principles_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Organic Chemistry Basic Principles'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Organic Chemistry Basic Principles' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "11_science_chemistry_organic_chemistry_basic_principles_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Organic Chemistry Basic Principles' important in the study of chemistry?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within chemistry",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Organic Chemistry Basic Principles' is important because it helps build understanding of major ideas and their relevance within chemistry."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}
