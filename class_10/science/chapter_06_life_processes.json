@@ -1,0 +1,101 @@
+{
+  "id": "cbse-10-science-life_processes",
+  "curriculum": "CBSE",
+  "class": 10,
+  "stream": null,
+  "subject": "science",
+  "chapter_number": 6,
+  "chapter_title": "Life Processes",
+  "language": "en",
+  "book": "NCERT Science (Class 10)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Life Processes in science.",
+    "detailed_summary": "This chapter for Class 10 science explains the core concepts of Life Processes. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Life Processes",
+        "explanation": "This concept introduces the basic idea of Life Processes."
+      },
+      {
+        "title": "Core ideas in Life Processes",
+        "explanation": "This concept covers the main principles and important points in Life Processes."
+      },
+      {
+        "title": "Applications of Life Processes",
+        "explanation": "This concept explains common uses, examples, or relevance of Life Processes."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "10_science_life_processes_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Life Processes'?",
+      "answer": "The chapter 'Life Processes' introduces foundational concepts in science for Class 10."
+    },
+    {
+      "question_id": "10_science_life_processes_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Life Processes'.",
+      "answer": "One important concept from 'Life Processes' is understanding its core ideas and how they apply within science."
+    },
+    {
+      "question_id": "10_science_life_processes_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Life Processes' be applied in a practical learning context?",
+      "answer": "The ideas from 'Life Processes' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in science."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "10_science_life_processes_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Life Processes'?",
+      "options": {
+        "A": "Understanding the core concepts of Life Processes",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Life Processes' mainly focuses on understanding its core concepts in science for Class 10."
+    },
+    {
+      "mcq_id": "10_science_life_processes_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Life Processes'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Life Processes' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "10_science_life_processes_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Life Processes' important in the study of science?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within science",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Life Processes' is important because it helps build understanding of major ideas and their relevance within science."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

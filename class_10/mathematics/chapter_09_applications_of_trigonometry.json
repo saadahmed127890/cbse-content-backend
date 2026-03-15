@@ -1,0 +1,101 @@
+{
+  "id": "cbse-10-mathematics-applications_of_trigonometry",
+  "curriculum": "CBSE",
+  "class": 10,
+  "stream": null,
+  "subject": "mathematics",
+  "chapter_number": 9,
+  "chapter_title": "Applications of Trigonometry",
+  "language": "en",
+  "book": "NCERT Mathematics (Class 10)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Applications of Trigonometry in mathematics.",
+    "detailed_summary": "This chapter for Class 10 mathematics explains the core concepts of Applications of Trigonometry. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Applications of Trigonometry",
+        "explanation": "This concept introduces the basic idea of Applications of Trigonometry."
+      },
+      {
+        "title": "Core ideas in Applications of Trigonometry",
+        "explanation": "This concept covers the main principles and important points in Applications of Trigonometry."
+      },
+      {
+        "title": "Applications of Applications of Trigonometry",
+        "explanation": "This concept explains common uses, examples, or relevance of Applications of Trigonometry."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "10_mathematics_applications_of_trigonometry_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Applications of Trigonometry'?",
+      "answer": "The chapter 'Applications of Trigonometry' introduces foundational concepts in mathematics for Class 10."
+    },
+    {
+      "question_id": "10_mathematics_applications_of_trigonometry_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Applications of Trigonometry'.",
+      "answer": "One important concept from 'Applications of Trigonometry' is understanding its core ideas and how they apply within mathematics."
+    },
+    {
+      "question_id": "10_mathematics_applications_of_trigonometry_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Applications of Trigonometry' be applied in a practical learning context?",
+      "answer": "The ideas from 'Applications of Trigonometry' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in mathematics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "10_mathematics_applications_of_trigonometry_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Applications of Trigonometry'?",
+      "options": {
+        "A": "Understanding the core concepts of Applications of Trigonometry",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Applications of Trigonometry' mainly focuses on understanding its core concepts in mathematics for Class 10."
+    },
+    {
+      "mcq_id": "10_mathematics_applications_of_trigonometry_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Applications of Trigonometry'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Applications of Trigonometry' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "10_mathematics_applications_of_trigonometry_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Applications of Trigonometry' important in the study of mathematics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within mathematics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Applications of Trigonometry' is important because it helps build understanding of major ideas and their relevance within mathematics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

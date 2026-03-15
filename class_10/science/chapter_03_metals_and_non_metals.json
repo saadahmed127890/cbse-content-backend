@@ -1,0 +1,101 @@
+{
+  "id": "cbse-10-science-metals_and_non_metals",
+  "curriculum": "CBSE",
+  "class": 10,
+  "stream": null,
+  "subject": "science",
+  "chapter_number": 3,
+  "chapter_title": "Metals and Non-metals",
+  "language": "en",
+  "book": "NCERT Science (Class 10)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Metals and Non-metals in science.",
+    "detailed_summary": "This chapter for Class 10 science explains the core concepts of Metals and Non-metals. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Metals and Non-metals",
+        "explanation": "This concept introduces the basic idea of Metals and Non-metals."
+      },
+      {
+        "title": "Core ideas in Metals and Non-metals",
+        "explanation": "This concept covers the main principles and important points in Metals and Non-metals."
+      },
+      {
+        "title": "Applications of Metals and Non-metals",
+        "explanation": "This concept explains common uses, examples, or relevance of Metals and Non-metals."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "10_science_metals_and_non_metals_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Metals and Non-metals'?",
+      "answer": "The chapter 'Metals and Non-metals' introduces foundational concepts in science for Class 10."
+    },
+    {
+      "question_id": "10_science_metals_and_non_metals_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Metals and Non-metals'.",
+      "answer": "One important concept from 'Metals and Non-metals' is understanding its core ideas and how they apply within science."
+    },
+    {
+      "question_id": "10_science_metals_and_non_metals_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Metals and Non-metals' be applied in a practical learning context?",
+      "answer": "The ideas from 'Metals and Non-metals' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in science."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "10_science_metals_and_non_metals_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Metals and Non-metals'?",
+      "options": {
+        "A": "Understanding the core concepts of Metals and Non-metals",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Metals and Non-metals' mainly focuses on understanding its core concepts in science for Class 10."
+    },
+    {
+      "mcq_id": "10_science_metals_and_non_metals_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Metals and Non-metals'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Metals and Non-metals' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "10_science_metals_and_non_metals_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Metals and Non-metals' important in the study of science?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within science",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Metals and Non-metals' is important because it helps build understanding of major ideas and their relevance within science."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}

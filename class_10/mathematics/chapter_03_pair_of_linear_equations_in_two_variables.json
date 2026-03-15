@@ -1,0 +1,101 @@
+{
+  "id": "cbse-10-mathematics-pair_of_linear_equations_in_two_variables",
+  "curriculum": "CBSE",
+  "class": 10,
+  "stream": null,
+  "subject": "mathematics",
+  "chapter_number": 3,
+  "chapter_title": "Pair of Linear Equations in Two Variables",
+  "language": "en",
+  "book": "NCERT Mathematics (Class 10)",
+  "version": "1.0",
+  "summary": {
+    "short_summary": "This chapter introduces the main ideas of Pair of Linear Equations in Two Variables in mathematics.",
+    "detailed_summary": "This chapter for Class 10 mathematics explains the core concepts of Pair of Linear Equations in Two Variables. It is intended as a structured study summary for CBSE learners.",
+    "key_concepts": [
+      {
+        "title": "Introduction to Pair of Linear Equations in Two Variables",
+        "explanation": "This concept introduces the basic idea of Pair of Linear Equations in Two Variables."
+      },
+      {
+        "title": "Core ideas in Pair of Linear Equations in Two Variables",
+        "explanation": "This concept covers the main principles and important points in Pair of Linear Equations in Two Variables."
+      },
+      {
+        "title": "Applications of Pair of Linear Equations in Two Variables",
+        "explanation": "This concept explains common uses, examples, or relevance of Pair of Linear Equations in Two Variables."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "question_id": "10_mathematics_pair_of_linear_equations_in_two_variables_pq_001",
+      "type": "very_short_answer",
+      "difficulty": "easy",
+      "question": "What is the main idea introduced in the chapter 'Pair of Linear Equations in Two Variables'?",
+      "answer": "The chapter 'Pair of Linear Equations in Two Variables' introduces foundational concepts in mathematics for Class 10."
+    },
+    {
+      "question_id": "10_mathematics_pair_of_linear_equations_in_two_variables_pq_002",
+      "type": "short_answer",
+      "difficulty": "medium",
+      "question": "Explain one important concept from the chapter 'Pair of Linear Equations in Two Variables'.",
+      "answer": "One important concept from 'Pair of Linear Equations in Two Variables' is understanding its core ideas and how they apply within mathematics."
+    },
+    {
+      "question_id": "10_mathematics_pair_of_linear_equations_in_two_variables_pq_003",
+      "type": "application_based",
+      "difficulty": "hard",
+      "question": "How can the ideas from 'Pair of Linear Equations in Two Variables' be applied in a practical learning context?",
+      "answer": "The ideas from 'Pair of Linear Equations in Two Variables' can be applied by solving examples, analyzing situations, and connecting concepts to real learning problems in mathematics."
+    }
+  ],
+  "mcqs": [
+    {
+      "mcq_id": "10_mathematics_pair_of_linear_equations_in_two_variables_mcq_001",
+      "difficulty": "easy",
+      "question": "What is the main focus of the chapter 'Pair of Linear Equations in Two Variables'?",
+      "options": {
+        "A": "Understanding the core concepts of Pair of Linear Equations in Two Variables",
+        "B": "Learning only historical facts",
+        "C": "Ignoring practical applications",
+        "D": "Memorizing unrelated topics"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter 'Pair of Linear Equations in Two Variables' mainly focuses on understanding its core concepts in mathematics for Class 10."
+    },
+    {
+      "mcq_id": "10_mathematics_pair_of_linear_equations_in_two_variables_mcq_002",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a useful way to study 'Pair of Linear Equations in Two Variables'?",
+      "options": {
+        "A": "Avoiding all examples",
+        "B": "Reviewing concepts and practicing questions",
+        "C": "Skipping the summary section",
+        "D": "Reading unrelated chapters only"
+      },
+      "correct_answer": "B",
+      "explanation": "A useful way to study 'Pair of Linear Equations in Two Variables' is by reviewing the concepts carefully and practicing relevant questions."
+    },
+    {
+      "mcq_id": "10_mathematics_pair_of_linear_equations_in_two_variables_mcq_003",
+      "difficulty": "hard",
+      "question": "Why is 'Pair of Linear Equations in Two Variables' important in the study of mathematics?",
+      "options": {
+        "A": "Because it replaces all other chapters",
+        "B": "Because it has no connection to the subject",
+        "C": "Because it builds understanding of important ideas within mathematics",
+        "D": "Because it is only useful for memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "'Pair of Linear Equations in Two Variables' is important because it helps build understanding of major ideas and their relevance within mathematics."
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "reviewed": false,
+    "tags": [],
+    "source": "NCERT-based",
+    "last_updated": "2026-03-16"
+  }
+}
