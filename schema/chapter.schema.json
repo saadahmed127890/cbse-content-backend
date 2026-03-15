@@ -1,0 +1,260 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "CBSE Chapter Content Schema",
+    "type": "object",
+    "required": [
+        "id",
+        "curriculum",
+        "class",
+        "stream",
+        "subject",
+        "chapter_number",
+        "chapter_title",
+        "language",
+        "book",
+        "version",
+        "summary",
+        "practice_questions",
+        "mcqs",
+        "metadata"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "minLength": 1
+        },
+        "curriculum": {
+            "type": "string",
+            "const": "CBSE"
+        },
+        "class": {
+            "type": "integer",
+            "enum": [
+                6,
+                7,
+                8,
+                10,
+                11,
+                12
+            ]
+        },
+        "stream": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "enum": [
+                "science",
+                "commerce",
+                "humanities",
+                null
+            ]
+        },
+        "subject": {
+            "type": "string",
+            "minLength": 1
+        },
+        "chapter_number": {
+            "type": "integer",
+            "minimum": 1
+        },
+        "chapter_title": {
+            "type": "string",
+            "minLength": 1
+        },
+        "language": {
+            "type": "string",
+            "default": "en"
+        },
+        "book": {
+            "type": "string",
+            "minLength": 1
+        },
+        "version": {
+            "type": "string",
+            "default": "1.0"
+        },
+        "summary": {
+            "type": "object",
+            "required": [
+                "short_summary",
+                "detailed_summary",
+                "key_concepts"
+            ],
+            "properties": {
+                "short_summary": {
+                    "type": "string"
+                },
+                "detailed_summary": {
+                    "type": "string"
+                },
+                "key_concepts": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "title",
+                            "explanation"
+                        ],
+                        "properties": {
+                            "title": {
+                                "type": "string"
+                            },
+                            "explanation": {
+                                "type": "string"
+                            }
+                        },
+                        "additionalProperties": false
+                    }
+                }
+            },
+            "additionalProperties": false
+        },
+        "practice_questions": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "question_id",
+                    "type",
+                    "difficulty",
+                    "question",
+                    "answer"
+                ],
+                "properties": {
+                    "question_id": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string",
+                        "enum": [
+                            "very_short_answer",
+                            "short_answer",
+                            "long_answer",
+                            "application_based"
+                        ]
+                    },
+                    "difficulty": {
+                        "type": "string",
+                        "enum": [
+                            "easy",
+                            "medium",
+                            "hard"
+                        ]
+                    },
+                    "question": {
+                        "type": "string"
+                    },
+                    "answer": {
+                        "type": "string"
+                    }
+                },
+                "additionalProperties": false
+            }
+        },
+        "mcqs": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "mcq_id",
+                    "difficulty",
+                    "question",
+                    "options",
+                    "correct_answer",
+                    "explanation"
+                ],
+                "properties": {
+                    "mcq_id": {
+                        "type": "string"
+                    },
+                    "difficulty": {
+                        "type": "string",
+                        "enum": [
+                            "easy",
+                            "medium",
+                            "hard"
+                        ]
+                    },
+                    "question": {
+                        "type": "string"
+                    },
+                    "options": {
+                        "type": "object",
+                        "required": [
+                            "A",
+                            "B",
+                            "C",
+                            "D"
+                        ],
+                        "properties": {
+                            "A": {
+                                "type": "string"
+                            },
+                            "B": {
+                                "type": "string"
+                            },
+                            "C": {
+                                "type": "string"
+                            },
+                            "D": {
+                                "type": "string"
+                            }
+                        },
+                        "additionalProperties": false
+                    },
+                    "correct_answer": {
+                        "type": "string",
+                        "enum": [
+                            "A",
+                            "B",
+                            "C",
+                            "D"
+                        ]
+                    },
+                    "explanation": {
+                        "type": "string"
+                    }
+                },
+                "additionalProperties": false
+            }
+        },
+        "metadata": {
+            "type": "object",
+            "required": [
+                "status",
+                "reviewed",
+                "tags",
+                "source",
+                "last_updated"
+            ],
+            "properties": {
+                "status": {
+                    "type": "string",
+                    "enum": [
+                        "draft",
+                        "reviewed",
+                        "final"
+                    ]
+                },
+                "reviewed": {
+                    "type": "boolean"
+                },
+                "tags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "source": {
+                    "type": "string"
+                },
+                "last_updated": {
+                    "type": "string"
+                }
+            },
+            "additionalProperties": false
+        }
+    },
+    "additionalProperties": false
+}

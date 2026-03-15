@@ -1,0 +1,360 @@
+inventory_version: "v1-core-academic-final"
+
+source_of_truth:
+  curriculum_basis: "CBSE 2025-26 subject structure"
+  chapter_basis: "NCERT textbook chapter structure"
+
+scope:
+  classes: [6, 7, 8, 10, 11, 12]
+  excluded_classes: [9]
+
+classes:
+
+  "6":
+    subjects:
+
+      mathematics:
+        textbook: "Ganita Prakash (Grade 6)"
+        chapters:
+          - "Patterns in Mathematics"
+          - "Lines and Angles"
+          - "Number Play"
+          - "Data Handling and Presentation"
+          - "Prime Time"
+          - "Perimeter and Area"
+          - "Fractions"
+          - "Playing with Constructions"
+          - "Symmetry"
+          - "The Other Side of Zero"
+
+      science:
+        textbook: "Curiosity (Grade 6)"
+        chapters:
+          - "The Wonderful World of Science"
+          - "Diversity in the Living World"
+          - "Mindful Eating: A Path to a Healthy Body"
+          - "Exploring Magnets"
+          - "Measurement of Length and Motion"
+          - "Materials Around Us"
+          - "Temperature and its Measurement"
+          - "A Journey through States of Water"
+          - "Methods of Separation in Everyday Life"
+          - "Living Creatures: Exploring their Characteristics"
+          - "Nature’s Treasures"
+          - "Beyond Earth"
+
+      social_science:
+        textbook: "Exploring Society: India and Beyond (Grade 6)"
+        chapters:
+          - "Locating Places on the Earth"
+          - "Oceans and Continents"
+          - "Landforms and Life"
+          - "Timeline and Sources of History"
+          - "India, That is Bharat"
+          - "The Beginnings of Indian Civilisation"
+          - "India’s Cultural Roots"
+          - "Unity in Diversity"
+          - "Family and Community"
+          - "Grassroots Democracy — Governance"
+          - "Local Government in Rural Areas"
+          - "The Realm of the Rural"
+          - "The Value of Work"
+          - "Economic Activities Around Us"
+
+  "7":
+    subjects:
+
+      mathematics:
+        textbook: "Ganita Prakash (Grade 7)"
+        chapters:
+          - "Large Numbers Around Us"
+          - "Arithmetic Expressions"
+          - "A Peek Beyond the Point"
+          - "Expressions Using Letter-Numbers"
+          - "Parallel and Intersecting Lines"
+          - "Number Play"
+          - "A Tale of Three Intersecting Lines"
+          - "Working with Fractions"
+          - "Perimeter, Area and Volume"
+          - "Circle and its Surroundings"
+          - "How Do We See in Three Dimensions"
+
+      science:
+        textbook: "Curiosity (Grade 7)"
+        chapters:
+          - "The Ever-Evolving World of Science"
+          - "Exploring Substances: Acidic, Basic and Neutral"
+          - "Electricity: Circuits and their Components"
+          - "The World of Metals and Non-metals"
+          - "Changes Around Us: Physical and Chemical"
+          - "Adolescence: A Stage of Growth and Change"
+          - "Heat Transfer in Nature"
+          - "Measurement of Time and Motion"
+          - "Life Processes in Animals"
+          - "Life Processes in Plants"
+          - "Light: Shadows and Reflections"
+          - "Earth, Moon and the Sun"
+
+      social_science:
+        textbook: "Exploring Society: India and Beyond (Grade 7)"
+        chapters:
+          - "Environment and Human Interaction"
+          - "Our Changing Earth"
+          - "Water Resources"
+          - "Human Settlements"
+          - "Emergence of New Kingdoms"
+          - "Medieval Societies and Cultures"
+          - "Communities and Cultural Traditions"
+          - "Governance and Democracy"
+          - "Markets and Economic Activities"
+
+  "8":
+    subjects:
+
+      mathematics:
+        textbook: "Ganita Prakash (Grade 8)"
+        books:
+          part_1:
+            chapters:
+              - "A Square and A Cube"
+              - "Power Play"
+              - "A Story of Numbers"
+              - "Quadrilaterals"
+              - "Number Play"
+              - "We Distribute Yet Things Multiply"
+              - "Proportional Reasoning"
+          part_2:
+            chapters:
+              - "Linear Equations"
+              - "Mensuration"
+              - "Data and Graphs"
+              - "Probability"
+              - "Algebraic Identities"
+              - "Geometrical Constructions"
+
+      science:
+        textbook: "Curiosity (Grade 8)"
+        chapters:
+          - "Exploring the Investigative World of Science"
+          - "The Invisible Living World"
+          - "Health: The Ultimate Treasure"
+          - "Electricity: Magnetic and Heating Effects"
+          - "Exploring Forces"
+          - "Light: Mirrors and Lenses"
+          - "Sound and Waves"
+          - "Earth and Space"
+          - "Environmental Sustainability"
+
+      social_science:
+        textbook: "Exploring Society: India and Beyond (Grade 8)"
+        chapters:
+          - "Natural Resources and Their Use"
+          - "Reshaping India's Political Map"
+          - "The Rise of Regional Powers"
+          - "Colonial Expansion"
+          - "Society and Culture in Colonial India"
+          - "Economic Transformations"
+          - "Struggles for Freedom"
+          - "Democracy and Governance"
+          - "Development and Sustainability"
+
+  "10":
+    subjects:
+
+      mathematics:
+        textbook: "NCERT Mathematics (Class 10)"
+        chapters:
+          - "Real Numbers"
+          - "Polynomials"
+          - "Pair of Linear Equations in Two Variables"
+          - "Quadratic Equations"
+          - "Arithmetic Progressions"
+          - "Triangles"
+          - "Coordinate Geometry"
+          - "Introduction to Trigonometry"
+          - "Applications of Trigonometry"
+          - "Circles"
+          - "Areas Related to Circles"
+          - "Surface Areas and Volumes"
+          - "Statistics"
+          - "Probability"
+
+      science:
+        textbook: "NCERT Science (Class 10)"
+        chapters:
+          - "Chemical Reactions and Equations"
+          - "Acids Bases and Salts"
+          - "Metals and Non-metals"
+          - "Carbon and its Compounds"
+          - "Periodic Classification of Elements"
+          - "Life Processes"
+          - "Control and Coordination"
+          - "How do Organisms Reproduce"
+          - "Heredity and Evolution"
+          - "Light Reflection and Refraction"
+          - "Human Eye and the Colourful World"
+          - "Electricity"
+          - "Magnetic Effects of Electric Current"
+          - "Sources of Energy"
+          - "Our Environment"
+          - "Sustainable Management of Natural Resources"
+
+  "11":
+    streams:
+      science:
+        subjects:
+
+          physics:
+            textbook: "NCERT Physics Part I & II"
+            chapters:
+              - "Units and Measurements"
+              - "Motion in a Straight Line"
+              - "Motion in a Plane"
+              - "Laws of Motion"
+              - "Work Energy and Power"
+              - "System of Particles and Rotational Motion"
+              - "Gravitation"
+              - "Mechanical Properties of Solids"
+              - "Mechanical Properties of Fluids"
+              - "Thermal Properties of Matter"
+              - "Thermodynamics"
+              - "Kinetic Theory"
+              - "Oscillations"
+              - "Waves"
+
+          chemistry:
+            textbook: "NCERT Chemistry Part I & II"
+            chapters:
+              - "Some Basic Concepts of Chemistry"
+              - "Structure of Atom"
+              - "Classification of Elements"
+              - "Chemical Bonding and Molecular Structure"
+              - "States of Matter"
+              - "Thermodynamics"
+              - "Equilibrium"
+              - "Redox Reactions"
+              - "Hydrogen"
+              - "s-Block Elements"
+              - "p-Block Elements"
+              - "Organic Chemistry Basic Principles"
+              - "Hydrocarbons"
+              - "Environmental Chemistry"
+
+          biology:
+            textbook: "NCERT Biology"
+            chapters:
+              - "The Living World"
+              - "Biological Classification"
+              - "Plant Kingdom"
+              - "Animal Kingdom"
+              - "Morphology of Flowering Plants"
+              - "Anatomy of Flowering Plants"
+              - "Structural Organisation in Animals"
+              - "Cell The Unit of Life"
+              - "Biomolecules"
+              - "Cell Cycle and Cell Division"
+              - "Transport in Plants"
+              - "Mineral Nutrition"
+              - "Photosynthesis"
+              - "Respiration in Plants"
+              - "Plant Growth and Development"
+              - "Digestion and Absorption"
+              - "Breathing and Exchange of Gases"
+              - "Body Fluids and Circulation"
+              - "Excretory Products and their Elimination"
+              - "Locomotion and Movement"
+              - "Neural Control and Coordination"
+              - "Chemical Coordination and Integration"
+
+          mathematics:
+            textbook: "NCERT Mathematics"
+            chapters:
+              - "Sets"
+              - "Relations and Functions"
+              - "Trigonometric Functions"
+              - "Complex Numbers and Quadratic Equations"
+              - "Linear Inequalities"
+              - "Permutations and Combinations"
+              - "Binomial Theorem"
+              - "Sequences and Series"
+              - "Straight Lines"
+              - "Conic Sections"
+              - "Introduction to Three Dimensional Geometry"
+              - "Limits and Derivatives"
+              - "Statistics"
+              - "Probability"
+
+  "12":
+    streams:
+      science:
+        subjects:
+
+          physics:
+            textbook: "NCERT Physics Part I & II"
+            chapters:
+              - "Electric Charges and Fields"
+              - "Electrostatic Potential and Capacitance"
+              - "Current Electricity"
+              - "Moving Charges and Magnetism"
+              - "Magnetism and Matter"
+              - "Electromagnetic Induction"
+              - "Alternating Current"
+              - "Electromagnetic Waves"
+              - "Ray Optics and Optical Instruments"
+              - "Wave Optics"
+              - "Dual Nature of Radiation and Matter"
+              - "Atoms"
+              - "Nuclei"
+              - "Semiconductor Electronics"
+              - "Communication Systems"
+
+          chemistry:
+            textbook: "NCERT Chemistry Part I & II"
+            chapters:
+              - "Solutions"
+              - "Electrochemistry"
+              - "Chemical Kinetics"
+              - "d and f Block Elements"
+              - "Coordination Compounds"
+              - "Haloalkanes and Haloarenes"
+              - "Alcohols Phenols and Ethers"
+              - "Aldehydes Ketones and Carboxylic Acids"
+              - "Amines"
+              - "Biomolecules"
+
+          biology:
+            textbook: "NCERT Biology"
+            chapters:
+              - "Reproduction in Organisms"
+              - "Sexual Reproduction in Flowering Plants"
+              - "Human Reproduction"
+              - "Reproductive Health"
+              - "Principles of Inheritance and Variation"
+              - "Molecular Basis of Inheritance"
+              - "Evolution"
+              - "Human Health and Disease"
+              - "Strategies for Enhancement in Food Production"
+              - "Microbes in Human Welfare"
+              - "Biotechnology Principles and Processes"
+              - "Biotechnology and its Applications"
+              - "Organisms and Populations"
+              - "Ecosystem"
+              - "Biodiversity and Conservation"
+              - "Environmental Issues"
+
+          mathematics:
+            textbook: "NCERT Mathematics"
+            chapters:
+              - "Relations and Functions"
+              - "Inverse Trigonometric Functions"
+              - "Matrices"
+              - "Determinants"
+              - "Continuity and Differentiability"
+              - "Application of Derivatives"
+              - "Integrals"
+              - "Application of Integrals"
+              - "Differential Equations"
+              - "Vector Algebra"
+              - "Three Dimensional Geometry"
+              - "Linear Programming"
+              - "Probability"
